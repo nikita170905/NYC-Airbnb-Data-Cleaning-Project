@@ -67,7 +67,7 @@ The impact of the cleaning process is most visible in the price distribution. By
 
 ## 🚀 How to Run the Project
 1. **Clone the Repository:**
-   `git clone https://github.com/yourusername/nyc-airbnb-cleaning.git`
+   `git clone https://github.com/nikita170905/nyc-airbnb-cleaning.git`
 
 2. **Install Dependencies:**
    `pip install pandas numpy matplotlib seaborn`
