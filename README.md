@@ -51,7 +51,7 @@ Following the project's key concepts and challenges, the following steps were im
 ## 📁 Project Structure
 * **AB_NYC_2019.csv:** The raw dataset file.
 * **task3.ipynb:** The main Jupyter Notebook containing the cleaning logic and analysis.
-* **boxplot.png:** The raw dataset file.
+* **boxplot.png:** Screenshot of boxplot.
 * **README.md:** Project documentation and summary.
 
 
